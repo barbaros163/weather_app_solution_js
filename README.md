@@ -18,7 +18,7 @@ HTML, CSS, JAVASCRIPT
 
 
 ## Demo
-https://barbaros163.github.io/weather_app_solution_js/HTML-CSS/weather.html
+https://barbaros163.github.io/weather_app_solution_js/weather.html
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
